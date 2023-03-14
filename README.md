@@ -1,4 +1,4 @@
-### Hi there, I'm John 👋
+### Hi there, I'm John R Saunders👋
 
 ![John Saunders's github stats](https://github-readme-stats.vercel.app/api?username=JRSaunders&count_private=true&show_icons=true)
 
