@@ -1,9 +1,3 @@
-### Hi there, I'm John R Saunders👋
-
-![John Saunders's github stats](https://github-readme-stats.vercel.app/api?username=JRSaunders&count_private=false&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRSaunders&layout=compact)
-
 ### Languages and Tools:
 
 <p align="left">
